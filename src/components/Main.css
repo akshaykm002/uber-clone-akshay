@@ -1,0 +1,43 @@
+.main{
+    background: url('../Rider_Home_bg_desktop2x.webp');
+    background-size: cover;
+}
+.css-kDPYnB {
+    position: relative;
+    z-index: 0;
+    flex: 1;
+    min-height: 52px;
+    background-color: #F6F6F6;
+    padding-right: 33px;
+    padding-left: 41px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border: none;
+    color: #000000;
+    outline: none;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    line-height: 24px;
+    box-sizing: border-box;
+    margin: 0;
+    width: 100%;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+.css-bwbuAu {
+    flex: 0 0 auto;
+    font-family: 'UberMoveText', 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-bottom: 13px;
+    margin-top: 31px;
+    position: relative;
+}
+.txt{
+    margin-top: 10px;
+}
+.get-started{
+    background: url('../new-york-city-skyline-time-lapse-from-roof-top-with-urban-skyscrapers-new-york-usa-free-video.jpg');
+    background-size:cover;
+    background-position: center;
+}
